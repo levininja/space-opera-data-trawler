@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+.cursorindexingignore
+.specstory/
+
 # Distribution / packaging
 .Python
 build/
@@ -132,4 +135,5 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
 
